@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Khan</h1>
 <p>Efficient full stack web developer, having problem-solving ability and proficiency in MERN Stack. A good learner and always excited to learn new things in terms of technology. Skilled in teamwork, collaboration, time management, and other interpersonal skills. Looking for an opportunity to work in a challenging position for a technology-driven organization.</p>
 <image src="https://camo.githubusercontent.com/8d5deef06a13d0ae4d973c3947748e85eae585dcf91861de1b0f97700876c9e3/68747470733a2f2f7777772e7362722d746563686e6f6c6f676965732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f6d65726e2e706e67"></image>
-<h1 align="left">About me!</h1>
+<h1 align="center">About me!</h1>
 <p align="left">One who likes to code and live in the world of web development </p>
 <p align="left" font >I enjoy developing websites and web applications with a specialization in MERN stack.
 In My free time I love to play , cricket ,watching movies and learning about new technologies. </p>
