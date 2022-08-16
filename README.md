@@ -26,6 +26,8 @@ In My free time I love to play , cricket ,watching movies and learning about new
 </div>
 <h1 align="left">📧 How to reach me</h1>
 <div background-color="red" color="white">faisal.z.khan5538@gmail.com</div>
+<h1 align="left">📄 Know about my experiences</h1>
+<p>Click here for my<a href="https://drive.google.com/file/d/12AfuK1ThLlgbfyEYTzucReqTiouTgcAG/view?usp=sharing" >Resume</a><p/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/faisal-khan-190929171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinay Makade" height="30" width="40" /></a>
