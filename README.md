@@ -30,7 +30,7 @@ In My free time I love to play , cricket ,watching movies and learning about new
 <p>Click here for my <a href="https://drive.google.com/file/d/12AfuK1ThLlgbfyEYTzucReqTiouTgcAG/view?usp=sharing">Resume</a><p/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://faisalportfoliomasai.netlify.app/"><image src="[[https://tse1.mm.bing.net/th?id=OIP.Ja6fAnldUkL0ACMOTEuBdgHaH_&pid=Api&rs=1&c=1&qlt=95&w=114&h=123](https://tse1.mm.bing.net/th?id=OIP.4GgUrZGh2t1UqXQxWwDuWgHaHa&pid=Api&rs=1&c=1&qlt=95&w=123&h=123)](https://camo.githubusercontent.com/be95d7adcfa8de4c86ecd1d9cc18c048dda8ea55ab12f4177e86ad3e4ad73c9b/68747470733a2f2f7777772e706f7274666f6c65722e636f6d2f6173736574732f696d616765732f69636f6e732f657461702d61757468656e7469636174696f6e2e737667)" height="30" width="40"/></a>
+   
 <a href="https://www.linkedin.com/in/faisal-khan-190929171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinay Makade" height="30" width="40" /></a>
 </p>
 
