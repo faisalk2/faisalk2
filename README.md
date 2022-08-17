@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Faisal Khan</h1>
-<p>Efficient full stack web developer, having problem-solving ability and proficiency in MERN Stack. A good learner and always excited to learn new things in terms of technology. Skilled in teamwork, collaboration, time management, and other interpersonal skills. Looking for an opportunity to work in a challenging position for a technology-driven organization.</p>
-<image src="https://camo.githubusercontent.com/8d5deef06a13d0ae4d973c3947748e85eae585dcf91861de1b0f97700876c9e3/68747470733a2f2f7777772e7362722d746563686e6f6c6f676965732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f6d65726e2e706e67"></image>
 <h1 align="center">About me!</h1>
 <p align="left">One who likes to code and live in the world of web development </p>
 <p align="left" font >I enjoy developing websites and web applications with a specialization in MERN stack.
@@ -34,7 +32,6 @@ In My free time I love to play , cricket ,watching movies and learning about new
 <p align="center" >Click here for my <a href="https://drive.google.com/file/d/12AfuK1ThLlgbfyEYTzucReqTiouTgcAG/view?usp=sharing">Resume</a><p/>
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-    
 <a href="https://www.linkedin.com/in/faisal-khan-190929171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faisal Khan" height="30" width="40" /></a>
     <a href="https://www.instagram.com/faisalkhan_24_/"><image align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Faisal Khan" height="30" width="40" style="max-width: 100%;"></image></a>
 </p>
