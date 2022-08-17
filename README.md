@@ -16,6 +16,10 @@ In My free time I love to play , cricket ,watching movies and learning about new
 - 💬 Ask me about React,express
 
 - ⚡ Fun fact I used to think coding was hard
+- <h1 align="center">Here is my Portfolio</h1>
+-  <div align="center" ><a  href="https://faisalportfoliomasai.netlify.app">
+    Visit my website
+</a></div>
 <h1 align="center">Ask me about!</h1>
 <div display="flex" align="center">
     <image src="https://camo.githubusercontent.com/b7cb856d6c14e9b6e5c1e46cf5f30210472df1c67bbbf1de1da8c6698cae6eb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541"></image>
@@ -47,6 +51,4 @@ In My free time I love to play , cricket ,watching movies and learning about new
     </a>
 </p>
 
- <div align="center" ><a  href="https://faisalportfoliomasai.netlify.app">
-    Visit my website
-</a></div>
+
