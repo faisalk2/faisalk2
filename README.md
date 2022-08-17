@@ -30,7 +30,6 @@ In My free time I love to play , cricket ,watching movies and learning about new
 </div>
 <h1 align="center">📧 How to reach me</h1>
 <div align="center" background-color="red" color="white"><a href="mailto:faisal.z.khan5538@gmail.com" {text-decoration: none;} >faisal.z.khan5538@gmail.com</a></div>
-<div align="center" background-color="red" color="white"><a href="mailto:faisal.z.khan5538@gmail.com" {text-decoration: none;} >+91-8087842960</a></div>
 <h1 align="center">📄 Know about my experiences</h1>
 <p align="center" >Click here for my <a href="https://drive.google.com/file/d/12AfuK1ThLlgbfyEYTzucReqTiouTgcAG/view?usp=sharing">Resume</a><p/>
 <h1 align="center">Connect with me:</h1>
