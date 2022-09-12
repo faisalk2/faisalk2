@@ -33,7 +33,7 @@ In My free time I love to play , cricket ,watching movies and learning about new
 <p align="center" >Click here for my <a href="https://drive.google.com/file/d/12AfuK1ThLlgbfyEYTzucReqTiouTgcAG/view?usp=sharing">Resume</a><p/>
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/faisal-khan-190929171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faisal Khan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faisal-khan-190929171/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faisal Khan" height="30" width="40" /></a>
     
 </p>
 
