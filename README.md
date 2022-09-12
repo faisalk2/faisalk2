@@ -30,7 +30,8 @@ In My free time I love to play , cricket ,watching movies and learning about new
 <h1 align="center">📧 How to reach me</h1>
 <div align="center" background-color="red" color="white"><a href="mailto:faisal.z.khan5538@gmail.com" {text-decoration: none;} >faisal.z.khan5538@gmail.com</a></div>
 <h1 align="center">📄 Know about my experiences</h1>
-<p align="center" >Click here for my <a href="https://drive.google.com/file/d/12AfuK1ThLlgbfyEYTzucReqTiouTgcAG/view?usp=sharing">Resume</a><p/>
+<p align="center" >Click here for my <a href="https://drive.google.com/file/d/12zsCUZyakh4Zf4U9SBl7cRgZ2wZw7kev/view?usp=sharing">Resume</a><p/>
+
 <h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/faisal-khan-190929171/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faisal Khan" height="30" width="40" /></a>
