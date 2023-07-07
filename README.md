@@ -2,7 +2,7 @@
 <h1 align="center">About me!</h1>
 <p align="left">One who likes to code and live in the world of web development </p>
 <p align="left" font >I enjoy developing websites and web applications with a specialization in MERN stack.
-In My free time I love to play , cricket ,watching movies and learning about new technologies. </p>
+In My free time, I love to play, cricket, watch movies and learn about new technologies. </p>
 
 
 - 🔭 I’m currently working on my existing Projects
@@ -11,7 +11,7 @@ In My free time I love to play , cricket ,watching movies and learning about new
 
 - 👯 I’m looking to collaborate on interesting projects
 
-- 💬 Ask me about React,express
+- 💬 Ask me about React,Express
 
 - ⚡ Fun fact I used to think coding was hard
 
@@ -30,7 +30,7 @@ In My free time I love to play , cricket ,watching movies and learning about new
 <h1 align="center">📧 How to reach me</h1>
 <div align="center" background-color="red" color="white"><a href="mailto:faisal.z.khan5538@gmail.com" {text-decoration: none;} >faisal.z.khan5538@gmail.com</a></div>
 <h1 align="center">📄 Know about my experiences</h1>
-<p align="center" >Click here for my <a href="https://drive.google.com/file/d/12zsCUZyakh4Zf4U9SBl7cRgZ2wZw7kev/view?usp=sharing">Resume</a><p/>
+<p align="center" >Click here for my <a href="https://drive.google.com/file/d/11m4vU73Q56PmJgsRsgQQ2SXIcln9zA1u/view?usp=drive_link">Resume</a><p/>
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
@@ -46,7 +46,7 @@ In My free time I love to play , cricket ,watching movies and learning about new
 <br/>
 <p align="center" >
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=faisalk2&theme=tokyonight&hide_border=true&bg_color=0D1117">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="faisal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalk2&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Faisal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalk2&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>
 
