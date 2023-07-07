@@ -5,13 +5,11 @@
 In My free time, I love to play, cricket, watch movies and learn about new technologies. </p>
 
 
-- 🔭 I’m currently working on my existing Projects
-
-- 🌱 I’m currently learning React
+- 🔭  I’m constantly working on learning new skills!
 
 - 👯 I’m looking to collaborate on interesting projects
 
-- 💬 Ask me about React,Express
+- 💬  Ask me about HTML, CSS, JAVASCRIPT & MERN STACK.
 
 - ⚡ Fun fact I used to think coding was hard
 
