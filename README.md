@@ -28,7 +28,7 @@ In My free time, I love to play, cricket, watch movies and learn about new techn
 <h1 align="center">📧 How to reach me</h1>
 <div align="center" background-color="red" color="white"><a href="mailto:faisal.z.khan5538@gmail.com" {text-decoration: none;} >faisal.z.khan5538@gmail.com</a></div>
 <h1 align="center">📄 Know about my experiences</h1>
-<p align="center" >Click here for my <a href="[https://drive.google.com/file/d/11m4vU73Q56PmJgsRsgQQ2SXIcln9zA1u/view?usp=drive_link](https://drive.google.com/file/d/1Esahuwa9r5qrTEUbZ6TDfaKXRMUWy4X9/view?usp=drive_link)">Resume</a><p/>
+<p align="center" >Click here for my <a href="https://drive.google.com/file/d/1Esahuwa9r5qrTEUbZ6TDfaKXRMUWy4X9/view?usp=drive_link">Resume</a><p/>
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
